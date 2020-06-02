@@ -20,3 +20,7 @@ The implemented features are the next:
     * `http://localhost:8000/admin`
         * User: `igaznav`
         * Password: `admin123*`
+        
+# References
+* [Django 3 By Example - Third Edition (Antonio Mele)](https://learning.oreilly.com/library/view/django-3-by/9781838981952/)
+* [Django docs](https://docs.djangoproject.com/en/3.0/)
